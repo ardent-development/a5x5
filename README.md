@@ -8,6 +8,10 @@ This font is designed for use in systems with displays extremely limited in reso
 
 Since the available canvas space is so limited, we can only implement so many characters. However, as this font is primarily meant to serve as the smallest available font on a scientific calculator, we can guarantee that there will be lots of mathematical symbols and Greek letters in the first release.
 
+### Completeness
+
+Take a look at [TODO.md](./TODO.md).
+
 ## Variability
 
 * Character height usually meets, but shall never exceed, 5 pixels.
