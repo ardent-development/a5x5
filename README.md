@@ -12,6 +12,7 @@ Since the available canvas space is so limited, we can only implement so many ch
 
 * Character height usually meets, but shall never exceed, 5 pixels.
 * Character width ranges from 3 to 5 pixels depending on its visual complexity.
+* Characters (like lowercase G and Y) which have elements under their "main spaces" are not given any underspace and always fit within the same line.
 
 ## Contributors
 
